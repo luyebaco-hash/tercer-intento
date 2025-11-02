@@ -1,0 +1,7 @@
+streamlit
+pandas
+pymupdf==1.22.3
+spacy==3.5.1
+nltk
+vaderSentiment
+numpy
